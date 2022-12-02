@@ -1,0 +1,3 @@
+This fucntion takes an array of integers and integer target. 
+Return the indicies of the two integer in the array where the sum of them would equal to the target parameter
+Assumption: valid array and valid target.
